@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+    .hero-background {
+        background: url("@/assets/images/hero.jpg") center / cover no-repeat;
+    }
+}
