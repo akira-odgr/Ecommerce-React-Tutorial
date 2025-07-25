@@ -14,7 +14,7 @@ import VisaIcon from "@/assets/icons/visa.svg?react";
 import MasterCard from "@/assets/icons/mastercard.svg?react";
 import Maestro from "@/assets/icons/maestro.svg?react";
 import AppleCard from "@/assets/icons/appleCard.svg?react";
-import BitCoin from "@/assets/icons/bitCoin.svg?react";
+import BitCoin from "@/assets/icons/bitcoin.svg?react";
 
 const socialMedia = [
     FaFacebook,
